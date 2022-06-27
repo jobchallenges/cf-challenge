@@ -3,4 +3,4 @@
 This project was bootstrapped with Create Vue 2 App.
 
 
-Live Demo[https://cf-challenge.netlify.app]
+[Live Demo](https://cf-challenge.netlify.app)
